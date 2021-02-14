@@ -1,5 +1,10 @@
 # awesome-istio [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<a href="https://istio.io/">
+    <img src="https://github.com/istio/istio/raw/master/logo/istio-bluelogo-whitebackground-unframed.svg"
+         alt="Istio logo" title="Istio" height="100" width="100" />
+</a></br>
+
 A curated list of Istio Service Mesh related tools, frameworks and articles.
 
 # Contents
