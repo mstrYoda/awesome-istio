@@ -67,12 +67,12 @@ A curated list of Istio Service Mesh related tools, frameworks and articles.
 ### Community Repositories
 
 - https://github.com/GoogleCloudPlatform/istio-samples
-
 - https://github.com/previousdeveloper/istio-simple-concepts
-
 - https://github.com/mstrYoda/istio-examples
-
 - https://github.com/open-policy-agent/opa-envoy-plugin/tree/master/examples/istio OPA - Istio & Envoy External Authorization
+- https://github.com/ewolff/microservice-istio - Microservice Istio Sample
+- https://github.com/saturnism/istio-by-example-java - This is the source code material for the Istio Codelab.
+- https://github.com/bsorrentino/istio-sample
 
 ### Community
 
