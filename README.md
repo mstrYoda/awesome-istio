@@ -59,6 +59,7 @@ A curated list of Istio Service Mesh related tools, frameworks and articles.
 ### Slides
 
 - [Istio Service Mesh](https://docs.google.com/presentation/d/1CAFLqL8yn-s0kaPW09tLU_A-0Vjfhk4hnP7tr9zq4dY/)
+- [Istio Service Mesh Introduction](https://www.slideshare.net/ssuserc5886a/istio-service-mesh-introduction)
 
 ### Labs
 
