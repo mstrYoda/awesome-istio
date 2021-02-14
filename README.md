@@ -12,6 +12,7 @@ A curated list of Istio Service Mesh related tools, frameworks and articles.
 - [💼 Official Projects](#official-projects)
 - [📹 Videos](#videos)
 - [📰 Articles](#articles)
+- [🗒️ Books](#books)
 - [📑 Slides](#slides)
 - [🧪 Labs](#labs)
 - [🐾 Community Repositories](#community-repositories)
@@ -55,6 +56,14 @@ A curated list of Istio Service Mesh related tools, frameworks and articles.
 - [Blog on Authentication Policy and auto mTLS in Istio 1.5](https://www.arctiq.ca/our-blog/2020/3/12/authentication-policy-and-auto-mtls-in-istio-1-5/)
 - [External Authorization Server with Istio](https://medium.com/google-cloud/external-authorization-server-with-istio-1159b21682bb)
 - [Better External Authorization](https://istio.io/latest/blog/2021/better-external-authz/)
+
+### Books
+
+- [Istio Up and Running](https://learning.oreilly.com/library/view/istio-up-and/9781492043775/)
+- [Istio Explained](https://learning.oreilly.com/library/view/istio-explained/9781492073963/)
+- [Introducing Istio Service Mesh for Microservices, 2nd Edition](https://learning.oreilly.com/library/view/introducing-istio-service/9781492052630/)
+- [Getting Started with Istio Service Mesh: Manage Microservices in Kubernetes](https://learning.oreilly.com/library/view/getting-started-with/9781484254585/)
+- [Mastering Service Mesh](https://learning.oreilly.com/library/view/mastering-service-mesh/9781789615791)
 
 ### Slides
 
