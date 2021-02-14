@@ -53,7 +53,8 @@ A curated list of Istio Service Mesh related tools, frameworks and articles.
 - [Attesting Istio workload identities with SPIFFE and SPIRE](https://developer.ibm.com/components/istio/articles/istio-identity-spiffe-spire/)
 - [Istio By Example! - Modify Response Headers](https://www.istiobyexample.dev/response-headers)
 - [Blog on Authentication Policy and auto mTLS in Istio 1.5](https://www.arctiq.ca/our-blog/2020/3/12/authentication-policy-and-auto-mtls-in-istio-1-5/)
-- 
+- [External Authorization Server with Istio](https://medium.com/google-cloud/external-authorization-server-with-istio-1159b21682bb)
+- [Better External Authorization](https://istio.io/latest/blog/2021/better-external-authz/)
 
 ### Slides
 
