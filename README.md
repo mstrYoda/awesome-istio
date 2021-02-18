@@ -89,3 +89,5 @@ A curated list of Istio Service Mesh related tools, frameworks and articles.
 - [Slack](https://istio.slack.com)
 
 - [Istio - Community](https://istio.io/latest/about/community/join/)
+
+- [Twitter](https://twitter.com/istiomesh)
