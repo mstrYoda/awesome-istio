@@ -64,6 +64,7 @@ A curated list of Istio Service Mesh related tools, frameworks and articles.
 - [Introducing Istio Service Mesh for Microservices, 2nd Edition](https://learning.oreilly.com/library/view/introducing-istio-service/9781492052630/)
 - [Getting Started with Istio Service Mesh: Manage Microservices in Kubernetes](https://learning.oreilly.com/library/view/getting-started-with/9781484254585/)
 - [Mastering Service Mesh](https://learning.oreilly.com/library/view/mastering-service-mesh/9781789615791)
+- [Istio in Action](https://www.manning.com/books/istio-in-action)
 
 ### Slides
 
