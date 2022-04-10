@@ -84,6 +84,7 @@ A curated list of Istio Service Mesh related tools, frameworks and articles.
 - https://github.com/ewolff/microservice-istio - Microservice Istio Sample
 - https://github.com/saturnism/istio-by-example-java - This is the source code material for the Istio Codelab.
 - https://github.com/bsorrentino/istio-sample
+- https://github.com/zufardhiyaulhaq/istio-ratelimit-operator - Automatically create global & local rate limit in Istio with Kubernetes operator.
 
 ### Community
 
