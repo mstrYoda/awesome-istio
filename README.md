@@ -56,6 +56,7 @@ A curated list of Istio Service Mesh related tools, frameworks and articles.
 - [Blog on Authentication Policy and auto mTLS in Istio 1.5](https://www.arctiq.ca/our-blog/2020/3/12/authentication-policy-and-auto-mtls-in-istio-1-5/)
 - [External Authorization Server with Istio](https://medium.com/google-cloud/external-authorization-server-with-istio-1159b21682bb)
 - [Better External Authorization](https://istio.io/latest/blog/2021/better-external-authz/)
+- [Some Best Practices For Running Istio in Production](https://gokhan-karadas1992.medium.com/some-best-practices-for-running-istio-in-production-61a5442ce900)
 
 ### Books
 
