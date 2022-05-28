@@ -58,6 +58,7 @@ A curated list of Istio Service Mesh related tools, frameworks and articles.
 - [Better External Authorization](https://istio.io/latest/blog/2021/better-external-authz/)
 - [Some Best Practices For Running Istio in Production](https://gokhan-karadas1992.medium.com/some-best-practices-for-running-istio-in-production-61a5442ce900)
 - [Learn Istio: How to Manage, Monitor, and Secure your microservices](https://www.freecodecamp.org/news/learn-istio-manage-microservices/)
+- [Istio metrics merging](https://superorbital.io/journal/istio-metrics-merging/)
 
 ### Books
 
