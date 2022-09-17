@@ -37,6 +37,7 @@ A curated list of Istio Service Mesh related tools, frameworks and articles.
 - [Istio - Ambient Mesh - New Data Plane for Sidecarless Mesh](https://istio.io/latest/blog/2022/introducing-ambient-mesh/)
 - [Istio 1.12 - WasmPlugin CRD Wasm Extensions](https://www.tetrate.io/blog/istio-wasm-extensions-and-ecosystem/)
 - [Managing apps in the service mesh](https://cloud.ibm.com/docs/containers?topic=containers-istio-mesh)
+- [Istio - Kubernetes GatewayAPI Beta](https://istio.io/latest/blog/2022/gateway-api-beta/)
 - [Understanding Istio Ingress Gateway in Kubernetes](https://blog.jayway.com/2018/10/22/understanding-istio-ingress-gateway-in-kubernetes/)
 - [How to write WASM filters for Envoy and deploy it with Istio](https://banzaicloud.com/blog/envoy-wasm-filter/)
 - [Running Apache Kafka over Istio - benchmark](https://banzaicloud.com/blog/kafka-on-istio-performance/)
