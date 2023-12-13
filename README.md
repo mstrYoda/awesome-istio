@@ -34,6 +34,8 @@ A curated list of Istio Service Mesh related tools, frameworks and articles.
 
 ### Articles
 
+- [Istio - How to Configure Global Rate Limiting](https://imesh.ai/blog/istio-rate-limiting-global/)
+- [Istio - How to Configure Local Rate Limiting](https://imesh.ai/blog/istio-rate-limiting-local/)
 - [Istio - Troubleshooting Upstream Connect Error](https://medium.com/trendyol-tech/troubleshooting-kubernetes-application-istio-service-mesh-upstream-connect-error-1e64be8f3d75)
 - [Istio - Ambient Mesh - New Data Plane for Sidecarless Mesh](https://istio.io/latest/blog/2022/introducing-ambient-mesh/)
 - [Istio 1.12 - WasmPlugin CRD Wasm Extensions](https://www.tetrate.io/blog/istio-wasm-extensions-and-ecosystem/)
