@@ -65,6 +65,7 @@ A curated list of Istio Service Mesh related tools, frameworks and articles.
 - [Some Best Practices For Running Istio in Production](https://gokhan-karadas1992.medium.com/some-best-practices-for-running-istio-in-production-61a5442ce900)
 - [Learn Istio: How to Manage, Monitor, and Secure your microservices](https://www.freecodecamp.org/news/learn-istio-manage-microservices/)
 - [Istio metrics merging](https://superorbital.io/journal/istio-metrics-merging/)
+- [Istio AuthorizationPolicy Bypass: HTTP/2 Method-Case Bug](https://devtoolhub.com/istio-authorizationpolicy-http2-bypass/)
 
 ### Books
 
